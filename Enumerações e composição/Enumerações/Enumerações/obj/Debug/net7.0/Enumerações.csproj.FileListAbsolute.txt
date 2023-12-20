@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\bin\Debug\net7.0\Enumerações.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\bin\Debug\net7.0\Enumerações.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\bin\Debug\net7.0\Enumerações.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\bin\Debug\net7.0\Enumerações.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\bin\Debug\net7.0\Enumerações.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\refint\Enumerações.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\Enumerações.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Enumerações\Enumerações\obj\Debug\net7.0\ref\Enumerações.dll

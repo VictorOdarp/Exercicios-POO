@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\bin\Debug\net7.0\ExercicioProposto1.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\bin\Debug\net7.0\ExercicioProposto1.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\bin\Debug\net7.0\ExercicioProposto1.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\bin\Debug\net7.0\ExercicioProposto1.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\bin\Debug\net7.0\ExercicioProposto1.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\refint\ExercicioProposto1.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ExercicioProposto1.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioProposto1\ExercicioProposto1\obj\Debug\net7.0\ref\ExercicioProposto1.dll

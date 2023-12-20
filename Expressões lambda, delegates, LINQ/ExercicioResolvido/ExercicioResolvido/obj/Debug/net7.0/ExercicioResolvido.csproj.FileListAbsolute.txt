@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\refint\ExercicioResolvido.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ref\ExercicioResolvido.dll

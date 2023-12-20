@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\bin\Debug\net7.0\ExercicioPropostoEnumEComp.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\bin\Debug\net7.0\ExercicioPropostoEnumEComp.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\bin\Debug\net7.0\ExercicioPropostoEnumEComp.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\bin\Debug\net7.0\ExercicioPropostoEnumEComp.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\bin\Debug\net7.0\ExercicioPropostoEnumEComp.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\refint\ExercicioPropostoEnumEComp.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ExercicioPropostoEnumEComp.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoEnumEComp\ExercicioPropostoEnumEComp\obj\Debug\net7.0\ref\ExercicioPropostoEnumEComp.dll

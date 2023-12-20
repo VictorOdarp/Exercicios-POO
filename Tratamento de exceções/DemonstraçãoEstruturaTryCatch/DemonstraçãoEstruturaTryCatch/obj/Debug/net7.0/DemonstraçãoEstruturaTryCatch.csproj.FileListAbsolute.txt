@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\bin\Debug\net7.0\DemonstraçãoEstruturaTryCatch.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\bin\Debug\net7.0\DemonstraçãoEstruturaTryCatch.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\bin\Debug\net7.0\DemonstraçãoEstruturaTryCatch.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\bin\Debug\net7.0\DemonstraçãoEstruturaTryCatch.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\bin\Debug\net7.0\DemonstraçãoEstruturaTryCatch.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\refint\DemonstraçãoEstruturaTryCatch.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\DemonstraçãoEstruturaTryCatch.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoEstruturaTryCatch\DemonstraçãoEstruturaTryCatch\obj\Debug\net7.0\ref\DemonstraçãoEstruturaTryCatch.dll

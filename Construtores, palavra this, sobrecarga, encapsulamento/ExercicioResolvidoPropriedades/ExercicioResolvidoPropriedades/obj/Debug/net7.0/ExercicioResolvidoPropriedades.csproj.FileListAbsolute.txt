@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\bin\Debug\net7.0\ExercicioResolvidoPropriedades.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\bin\Debug\net7.0\ExercicioResolvidoPropriedades.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\bin\Debug\net7.0\ExercicioResolvidoPropriedades.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\bin\Debug\net7.0\ExercicioResolvidoPropriedades.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\bin\Debug\net7.0\ExercicioResolvidoPropriedades.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\refint\ExercicioResolvidoPropriedades.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ExercicioResolvidoPropriedades.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoPropriedades\ExercicioResolvidoPropriedades\obj\Debug\net7.0\ref\ExercicioResolvidoPropriedades.dll

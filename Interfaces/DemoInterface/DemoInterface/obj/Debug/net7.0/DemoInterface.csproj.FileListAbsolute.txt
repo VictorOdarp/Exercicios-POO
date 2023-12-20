@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\bin\Debug\net7.0\DemoInterface.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\bin\Debug\net7.0\DemoInterface.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\bin\Debug\net7.0\DemoInterface.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\bin\Debug\net7.0\DemoInterface.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\bin\Debug\net7.0\DemoInterface.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\refint\DemoInterface.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\DemoInterface.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Interfaces\DemoInterface\DemoInterface\obj\Debug\net7.0\ref\DemoInterface.dll

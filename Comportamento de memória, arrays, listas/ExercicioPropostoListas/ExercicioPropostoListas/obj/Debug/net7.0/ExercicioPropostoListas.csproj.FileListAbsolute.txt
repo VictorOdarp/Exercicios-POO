@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\bin\Debug\net7.0\ExercicioPropostoListas.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\bin\Debug\net7.0\ExercicioPropostoListas.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\bin\Debug\net7.0\ExercicioPropostoListas.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\bin\Debug\net7.0\ExercicioPropostoListas.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\bin\Debug\net7.0\ExercicioPropostoListas.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\refint\ExercicioPropostoListas.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ExercicioPropostoListas.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioPropostoListas\ExercicioPropostoListas\obj\Debug\net7.0\ref\ExercicioPropostoListas.dll

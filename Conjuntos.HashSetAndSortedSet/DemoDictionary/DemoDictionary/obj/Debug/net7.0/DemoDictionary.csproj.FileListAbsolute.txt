@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\bin\Debug\net7.0\DemoDictionary.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\bin\Debug\net7.0\DemoDictionary.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\bin\Debug\net7.0\DemoDictionary.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\bin\Debug\net7.0\DemoDictionary.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\bin\Debug\net7.0\DemoDictionary.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\refint\DemoDictionary.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\DemoDictionary.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoDictionary\DemoDictionary\obj\Debug\net7.0\ref\DemoDictionary.dll

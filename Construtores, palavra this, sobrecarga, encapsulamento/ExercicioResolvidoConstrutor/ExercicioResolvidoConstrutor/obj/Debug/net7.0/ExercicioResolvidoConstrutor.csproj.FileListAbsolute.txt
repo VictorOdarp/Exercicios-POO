@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\bin\Debug\net7.0\ExercicioResolvidoConstrutor.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\bin\Debug\net7.0\ExercicioResolvidoConstrutor.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\bin\Debug\net7.0\ExercicioResolvidoConstrutor.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\bin\Debug\net7.0\ExercicioResolvidoConstrutor.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\bin\Debug\net7.0\ExercicioResolvidoConstrutor.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\refint\ExercicioResolvidoConstrutor.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ExercicioResolvidoConstrutor.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoConstrutor\ExercicioResolvidoConstrutor\obj\Debug\net7.0\ref\ExercicioResolvidoConstrutor.dll

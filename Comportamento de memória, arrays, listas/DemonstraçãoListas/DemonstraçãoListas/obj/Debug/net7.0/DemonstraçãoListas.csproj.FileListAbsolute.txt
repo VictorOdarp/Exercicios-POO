@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\bin\Debug\net7.0\DemonstraçãoListas.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\bin\Debug\net7.0\DemonstraçãoListas.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\bin\Debug\net7.0\DemonstraçãoListas.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\bin\Debug\net7.0\DemonstraçãoListas.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\bin\Debug\net7.0\DemonstraçãoListas.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\refint\DemonstraçãoListas.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\DemonstraçãoListas.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\DemonstraçãoListas\DemonstraçãoListas\obj\Debug\net7.0\ref\DemonstraçãoListas.dll

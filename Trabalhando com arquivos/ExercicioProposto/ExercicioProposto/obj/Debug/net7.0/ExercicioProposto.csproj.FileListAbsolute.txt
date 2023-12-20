@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\refint\ExercicioProposto.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\ExercicioProposto\ExercicioProposto\obj\Debug\net7.0\ref\ExercicioProposto.dll

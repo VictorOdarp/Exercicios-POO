@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\bin\Debug\net7.0\ExercicioResolvidoEnumerações.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\bin\Debug\net7.0\ExercicioResolvidoEnumerações.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\bin\Debug\net7.0\ExercicioResolvidoEnumerações.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\bin\Debug\net7.0\ExercicioResolvidoEnumerações.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\bin\Debug\net7.0\ExercicioResolvidoEnumerações.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\refint\ExercicioResolvidoEnumerações.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ExercicioResolvidoEnumerações.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoEnumerações\ExercicioResolvidoEnumerações\obj\Debug\net7.0\ref\ExercicioResolvidoEnumerações.dll

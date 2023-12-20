@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net7.0\ExercicioResolvidoMatriz.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net7.0\ExercicioResolvidoMatriz.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net7.0\ExercicioResolvidoMatriz.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net7.0\ExercicioResolvidoMatriz.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\bin\Debug\net7.0\ExercicioResolvidoMatriz.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\refint\ExercicioResolvidoMatriz.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ExercicioResolvidoMatriz.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvidoMatriz\ExercicioResolvidoMatriz\obj\Debug\net7.0\ref\ExercicioResolvidoMatriz.dll

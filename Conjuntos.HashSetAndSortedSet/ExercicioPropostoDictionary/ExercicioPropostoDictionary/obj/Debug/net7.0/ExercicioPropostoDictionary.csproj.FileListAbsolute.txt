@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\refint\ExercicioPropostoDictionary.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ref\ExercicioPropostoDictionary.dll

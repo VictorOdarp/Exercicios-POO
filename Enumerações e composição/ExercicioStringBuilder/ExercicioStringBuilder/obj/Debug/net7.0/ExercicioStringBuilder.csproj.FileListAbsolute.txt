@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\refint\ExercicioStringBuilder.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net7.0\ref\ExercicioStringBuilder.dll

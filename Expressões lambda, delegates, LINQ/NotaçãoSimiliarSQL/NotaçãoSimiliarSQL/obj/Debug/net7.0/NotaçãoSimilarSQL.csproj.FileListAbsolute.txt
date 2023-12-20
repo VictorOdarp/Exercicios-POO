@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\bin\Debug\net7.0\NotaçãoSimilarSQL.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\bin\Debug\net7.0\NotaçãoSimilarSQL.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\bin\Debug\net7.0\NotaçãoSimilarSQL.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\bin\Debug\net7.0\NotaçãoSimilarSQL.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\bin\Debug\net7.0\NotaçãoSimilarSQL.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\refint\NotaçãoSimilarSQL.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\NotaçãoSimilarSQL.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\NotaçãoSimiliarSQL\NotaçãoSimiliarSQL\obj\Debug\net7.0\ref\NotaçãoSimilarSQL.dll

@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\bin\Debug\net7.0\DemoDelegates.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\bin\Debug\net7.0\DemoDelegates.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\bin\Debug\net7.0\DemoDelegates.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\bin\Debug\net7.0\DemoDelegates.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\bin\Debug\net7.0\DemoDelegates.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\refint\DemoDelegates.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\DemoDelegates.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\DemoDelegates\DemoDelegates\obj\Debug\net7.0\ref\DemoDelegates.dll

@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\bin\Debug\net7.0\DemoLINQWithLambda.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\bin\Debug\net7.0\DemoLINQWithLambda.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\bin\Debug\net7.0\DemoLINQWithLambda.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\bin\Debug\net7.0\DemoLINQWithLambda.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\bin\Debug\net7.0\DemoLINQWithLambda.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\refint\DemoLINQWithLambda.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\DemoLINQWithLambda.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\DemoLINQWithLambda\DemoLINQWithLambda\obj\Debug\net7.0\ref\DemoLINQWithLambda.dll

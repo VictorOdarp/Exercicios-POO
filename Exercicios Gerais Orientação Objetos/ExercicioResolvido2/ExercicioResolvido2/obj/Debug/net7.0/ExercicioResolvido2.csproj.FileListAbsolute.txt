@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net7.0\ExercicioResolvido2.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net7.0\ExercicioResolvido2.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net7.0\ExercicioResolvido2.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net7.0\ExercicioResolvido2.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net7.0\ExercicioResolvido2.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\refint\ExercicioResolvido2.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ExercicioResolvido2.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net7.0\ref\ExercicioResolvido2.dll

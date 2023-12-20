@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\bin\Debug\net7.0\Path.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\bin\Debug\net7.0\Path.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\bin\Debug\net7.0\Path.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\bin\Debug\net7.0\Path.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\bin\Debug\net7.0\Path.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\refint\Path.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\Path.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\Path\Path\obj\Debug\net7.0\ref\Path.dll

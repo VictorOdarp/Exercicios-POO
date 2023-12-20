@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaçãoSimilarSQL", "NotaçãoSimiliarSQL\NotaçãoSimilarSQL.csproj", "{F8308C49-46FC-47A0-9805-C047075299B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8308C49-46FC-47A0-9805-C047075299B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8308C49-46FC-47A0-9805-C047075299B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8308C49-46FC-47A0-9805-C047075299B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8308C49-46FC-47A0-9805-C047075299B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948B4066-2746-4D62-8551-D650A279FF45}
+	EndGlobalSection
+EndGlobal

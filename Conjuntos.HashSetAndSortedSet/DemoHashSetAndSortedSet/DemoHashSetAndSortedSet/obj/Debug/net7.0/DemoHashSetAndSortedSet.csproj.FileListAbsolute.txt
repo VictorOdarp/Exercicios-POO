@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\bin\Debug\net7.0\DemoHashSetAndSortedSet.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\bin\Debug\net7.0\DemoHashSetAndSortedSet.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\bin\Debug\net7.0\DemoHashSetAndSortedSet.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\bin\Debug\net7.0\DemoHashSetAndSortedSet.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\bin\Debug\net7.0\DemoHashSetAndSortedSet.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\refint\DemoHashSetAndSortedSet.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\DemoHashSetAndSortedSet.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\DemoHashSetAndSortedSet\DemoHashSetAndSortedSet\obj\Debug\net7.0\ref\DemoHashSetAndSortedSet.dll

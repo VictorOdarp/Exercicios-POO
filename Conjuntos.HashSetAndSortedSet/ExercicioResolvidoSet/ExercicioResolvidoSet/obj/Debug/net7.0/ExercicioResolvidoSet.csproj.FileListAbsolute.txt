@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\bin\Debug\net7.0\ExercicioResolvidoSet.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\bin\Debug\net7.0\ExercicioResolvidoSet.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\bin\Debug\net7.0\ExercicioResolvidoSet.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\bin\Debug\net7.0\ExercicioResolvidoSet.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\bin\Debug\net7.0\ExercicioResolvidoSet.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\refint\ExercicioResolvidoSet.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ExercicioResolvidoSet.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ExercicioResolvidoSet\ExercicioResolvidoSet\obj\Debug\net7.0\ref\ExercicioResolvidoSet.dll

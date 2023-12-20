@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\refint\StreamWriter.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\Trabalhando com arquivos\StreamWriter\StreamWriter\obj\Debug\net7.0\ref\StreamWriter.dll

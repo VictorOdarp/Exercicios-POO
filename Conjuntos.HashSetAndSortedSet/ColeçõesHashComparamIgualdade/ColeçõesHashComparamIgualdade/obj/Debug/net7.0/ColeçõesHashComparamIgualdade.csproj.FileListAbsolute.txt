@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\bin\Debug\net7.0\ColeçõesHashComparamIgualdade.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\bin\Debug\net7.0\ColeçõesHashComparamIgualdade.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\bin\Debug\net7.0\ColeçõesHashComparamIgualdade.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\bin\Debug\net7.0\ColeçõesHashComparamIgualdade.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\bin\Debug\net7.0\ColeçõesHashComparamIgualdade.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\refint\ColeçõesHashComparamIgualdade.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ColeçõesHashComparamIgualdade.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Conjuntos.HashSetAndSortedSet\ColeçõesHashComparamIgualdade\ColeçõesHashComparamIgualdade\obj\Debug\net7.0\ref\ColeçõesHashComparamIgualdade.dll

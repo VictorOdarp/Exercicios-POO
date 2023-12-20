@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\refint\GetHashCodeAndEquals.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Generics, Set, Dictionary\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\ref\GetHashCodeAndEquals.dll

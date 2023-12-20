@@ -1,0 +1,29 @@
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.exe
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.deps.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.runtimeconfig.json
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\refint\FileAndFileInfo.dll
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.pdb
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Desktop\C# Orientação Objetos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\ref\FileAndFileInfo.dll
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.exe
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.deps.json
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.runtimeconfig.json
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.dll
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.pdb
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.dll
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\refint\FileAndFileInfo.dll
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.pdb
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Exercicios C# POO\Trabalhando com arquivos\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\ref\FileAndFileInfo.dll

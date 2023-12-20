@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\bin\Debug\net7.0\IntroduçãoLINQ.exe
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\bin\Debug\net7.0\IntroduçãoLINQ.deps.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\bin\Debug\net7.0\IntroduçãoLINQ.runtimeconfig.json
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\bin\Debug\net7.0\IntroduçãoLINQ.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\bin\Debug\net7.0\IntroduçãoLINQ.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.AssemblyInfo.cs
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\refint\IntroduçãoLINQ.dll
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.pdb
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\IntroduçãoLINQ.genruntimeconfig.cache
+C:\Users\Victo\Desktop\C# Orientação Objetos\Expressões lambda, delegates, LINQ\IntroduçãoLINQ\IntroduçãoLINQ\obj\Debug\net7.0\ref\IntroduçãoLINQ.dll
